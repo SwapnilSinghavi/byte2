@@ -24,7 +24,7 @@ JINJA_ENVIRONMENT = jinja2.Environment(
     autoescape=True)
 
 # This API key is provided by google as described in the tutorial
-API_KEY = 'XXxxXxXXXXxxNXXxXXXxxxNNXXxxxxxxxXXXxXX'
+API_KEY = 'AIzaSyCu879veZIDHtXeJqPr6d6ZCW2uBYasdos'
 
 # This uses discovery to create an object that can talk to the 
 # fusion tables API using the developer key
